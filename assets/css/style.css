@@ -15,5 +15,6 @@ body{
 .p-checkbox-text{ position: relative; top: -4px; left: 6px; }
 .p-button{ width: 100%; font-size:16px; padding: 20px; border-radius: 3px; cursor: pointer; background-color:#53c653; color: #fff; margin-top:20px; outline: none; border:none; }
 .p-button:active{ background-color: #40bf40; }
-.p-center{ display: flex; align-items: center;  }
-.p-title{ color: #444; font-size: 25px; text-align: center; margin-top:0px; margin-bottom:30px; text-transform:uppercase; }
+.p-center{ display: flex; align-items: center; }
+.p-title{ color: #444; font-size: 25px; text-align: center; margin-top:0px; margin-bottom:10px; text-transform:uppercase; }
+.p-display{ padding: 20px; font-size: 30px; color: #333; margin-bottom:10px; text-align:center; overflow-wrap: break-word;  }
